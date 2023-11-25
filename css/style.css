@@ -3,10 +3,13 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 nav {
-    background-color: #112D4E;
-    height: 200px;
+    text-align: right;
+    overflow: hidden;
 }
 
+#description {
+    text-align: justify;
+}
 h1{
     color: #3F72AF;
     text-transform: uppercase;
